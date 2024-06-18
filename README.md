@@ -2,7 +2,8 @@
 - 👀 I’m interested in Cloud computing and web development
 - 🌱 I’m currently learning at SLIIT
 - 💞️ I’m looking to collaborate on innovative web development projects
-- 📫 How to reach me ...
+- 📫 How to reach me
+- email-mithilathilochanaj@gmail.com
 
 <!---
 It22899224J/It22899224J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
