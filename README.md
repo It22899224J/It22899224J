@@ -32,6 +32,23 @@ You can click the Preview link to take a look at your changes.
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="30" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="30" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="30" /></a>  
-
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="30" /></a>  
+
+  ---
+<div align="center">
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiruudayakumara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="195" height="150" alt="languages graph"  />
+  -->
+  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=It22899224J&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+  <img src="https://streak-stats.demolab.com?user=It22899224J&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="120em" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=It22899224J&show_icons=true&count_private=true&hide_border=true" height="120em" />
+</div>  
+
+---
+
+<div align="center">
+  <img width="700" src="https://github-profile-trophy.vercel.app/?username=It22899224J" alt="It22899224J" />
+</div>
+
+---
 </div>
